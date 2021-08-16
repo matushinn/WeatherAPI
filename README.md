@@ -11,11 +11,11 @@
 * ダークモードを使用したアプリ
  * UITextFieldの処理
  * delegate patternについて
- * closures and completion handlers.
- * use URLSession to network and make HTTP requests.
- * JSON with the native Encodable and Decodable protocols. 
- * Grand Central Dispatch to fetch the main thread.
- * Core Location to get the current location from the phone GPS. 
+ * closuresとcompletion handlersについて
+ * use URLSession to network and make HTTP requestsについて
+ * JSON with the native Encodable and Decodable protocolsについて
+ * Grand Central Dispatch to fetch the main threadについて
+ * Core Location to get the current location from the phone GPSについて
  
  
 
