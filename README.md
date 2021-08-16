@@ -17,6 +17,8 @@
  * Grand Central Dispatch to fetch the main threadについて
  * Core Location to get the current location from the phone GPSについて
  
- 
+## 概要
+![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/44314610/129537899-c8e2d075-96fb-43d0-b849-de01622e9884.gif)
+
 
 
